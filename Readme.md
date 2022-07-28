@@ -1,17 +1,16 @@
-# Exercise Lab
+# Homework 15
 
-Today's lab includes the use of routers and a hint of today's topic (state management)
+In our instagram application, we need you to implement the nav bar with its pages as follows
 
-you are required to implement the following page as is
+![insta-interface](https://cdn.vox-cdn.com/thumbor/Gn0qB91ZP-8aHkTIfVtZrRmn2Dg=/0x0:1136x674/1200x800/filters:focal(478x247:658x427)/cdn.vox-cdn.com/uploads/chorus_image/image/59141491/instagram_verge_desktop.0.png)
 
-![login-page](./images/instagram_login.png)
+## Requirements
 
-you also need to implement the register page
+you need to implement the following:
+- the navbar with it's pages (write something in the page)
+- you need to have a router
+- the profile page as it's shown in the image above 
 
-![register-page](./images/instagram_register.png)
+## Bonus
 
-try to make them as functional as you can
-
-more details to come...
-
-Good luck.
+- implement the setting page without functionality just 
